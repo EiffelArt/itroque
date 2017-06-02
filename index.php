@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>INSTITUTO TECNOLOGICO DE ROQUE</title>
+	<title>INSTITUTO TECNOLOGICO DE ROQUE - CON GIT</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 		<script type="text/javascript" src="js/jquery-latest.js"></script>
 		<script type="text/javascript" >
